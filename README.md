@@ -23,14 +23,14 @@ A VR puzzle escape room built in Unity. You are locked in a dark workshop. Compl
 
 ## Requirements
 
-- Unity **6000.6.2f1** (Universal Render Pipeline)
+- Unity **6000.6.10f1** (Universal Render Pipeline)
 - Packages: XR Interaction Toolkit 3.6.1, OpenXR 1.18, XR Hands, Input System (restored automatically from `Packages/manifest.json`)
 - A VR headset, or the **XR Device Simulator** (included in the scene) to test with mouse and keyboard
 
 ## Run
 
 1. Install Git LFS (`git lfs install`), then clone the repo.
-2. Open the folder with Unity Hub (version 6000.6.2f1). The first import takes a while.
+2. Open the folder with Unity Hub (version 6000.6.10f1). The first import takes a while.
 3. Open `Assets/Scenes/SampleScene.unity` and press **Play**.
 
 ## Build for Meta Quest (Android, experimental)
@@ -53,4 +53,4 @@ A VR puzzle escape room built in Unity. You are locked in a dark workshop. Compl
 
 ## AI disclosure
 
-Parts of the code, the UI design and the hint illustration were created with the help of generative AI tools (Claude). Game design, scene setup and testing were done by the team.
+Parts of the code, the UI design and the hint illustration were created with the help of generative AI tools (Claude). 
